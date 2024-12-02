@@ -6,6 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![crates.io](https://img.shields.io/crates/v/electrs.svg)](https://crates.io/crates/electrs)
 [![gitter.im](https://badges.gitter.im/romanz/electrs.svg)](https://gitter.im/romanz/electrs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Felectrs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Felectrs?ref=badge_shield)
 
 An efficient re-implementation of Electrum Server, inspired by [ElectrumX](https://github.com/kyuupichan/electrumx), [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server) and [bitcoincore-indexd](https://github.com/jonasschnelli/bitcoincore-indexd).
 
@@ -70,3 +71,7 @@ All contributions to this project are welcome. Please refer to the [Contributing
 [Our logo](logo/) is generously provided by [Dominik Průša](https://github.com/DominoPrusa) under the MIT license.
 Based on the [Electrum logo](https://github.com/spesmilo/electrum/blob/master/LICENCE)
 and the [Rust language logo](https://www.rust-lang.org/policies/media-guide).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Felectrs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Felectrs?ref=badge_large)
